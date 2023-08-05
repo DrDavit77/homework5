@@ -1,0 +1,10 @@
+.box{
+    width: 700px;
+    height: 500px;
+    border: 10px solid red;
+}
+
+img{
+    width: 700px;
+    height: 400px;
+}
